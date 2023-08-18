@@ -1,0 +1,1 @@
+<embed type="application/pdf" src="{{ url('storage/kajians/'.$url) }}#toolbar=0" width="100%" height="100%"></embed>
